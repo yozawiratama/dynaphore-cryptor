@@ -1,0 +1,30 @@
+{
+  "name": "dynaphore-cryptor",
+  "version": "0.0.1",
+  "description": "encypt and decrypt text or string with secret key",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yozawiratama/dynaphore-cryptor.git"
+  },
+  "keywords": [
+    "encrypt",
+    "decrypt",
+    "chiper",
+    "secret",
+    "key",
+    "public"
+  ],
+  "author": "Yoza Wiratama <y_wiratama@yahoo.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yozawiratama/dynaphore-cryptor/issues"
+  },
+  "homepage": "https://github.com/yozawiratama/dynaphore-cryptor#readme",
+  "dependencies": {
+    "crypto": "0.0.3"
+  }
+}
